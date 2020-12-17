@@ -1,0 +1,40 @@
+This README file contains information on the contents of the meta-mylayer layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: git://git.openembedded.org/bitbake 
+  branch: gatesgarth 
+
+  URI: git://git.openembedded.org/openembedded-core
+  branch: gatesgarth 
+
+  .
+  .
+  .
+
+Patches
+=======
+
+Please submit any patches with pull requests to 
+https://github.com/mtsenkov/meta-mylayer 
+
+Maintainer: Matthew Tsenkov <matthew.tsenkov@gmail.com>
+
+Table of Contents
+=================
+
+  I. Adding the meta-mylayer layer to your build
+ II. Misc
+
+
+I. Adding the meta-mylayer layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-mylayer'
+
+II. Misc
+========
+
